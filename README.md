@@ -1,1 +1,1 @@
-# SindFalled.github.io
+# SinedFalled.github.io
