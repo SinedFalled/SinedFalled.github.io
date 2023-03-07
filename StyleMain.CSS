@@ -12,12 +12,12 @@ footer {
     height:604px;}
 
 div.about, div.contact{
-    width:1296px;
+    width: 100vw;
     margin-left:auto;
     margin-right:auto;
 }
 div.menu, div.main{
-    width:1344px;
+    width: 100vw;
     margin-left:auto;
     margin-right:auto;
 }
