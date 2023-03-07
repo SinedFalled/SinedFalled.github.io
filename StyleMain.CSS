@@ -20,12 +20,12 @@ footer {
 }
 
 div.about, div.contact{
-    width: 100vw;
+    width: 1296px;
     margin-left:auto;
     margin-right:auto;
 }
 div.menu, div.main{
-    width: 100vw;
+    width: 1344px;
     margin-left:auto;
     margin-right:auto;
 }
