@@ -1,15 +1,23 @@
 nav {
     background: white;
-    height:110px;}
+    height:110px;
+    width:100vw;
+}
 header {
     background-image: url("Rectangle\ 23.png"); 
-    height: 750px;}
+    height: 750px;
+    width: 100vw;
+}
 section {
     background: white; 
-     height: auto;}
+    height: auto;
+    width: 100vw;
+}
 footer {
     background: #3D348B;
-    height:604px;}
+    height:604px;
+    width:100vw
+}
 
 div.about, div.contact{
     width: 100vw;
