@@ -6,7 +6,7 @@ nav {
 header {
     background-image: url("Rectangle\ 23.png"); 
     height: 750px;
-    width: 100vw !important;
+    width: 100vw;
 }
 section {
     background: white; 
@@ -16,7 +16,7 @@ section {
 footer {
     background: #3D348B;
     height:604px;
-    width:100vw !important 
+    width:100vw;
 }
 
 div.about, div.contact{
