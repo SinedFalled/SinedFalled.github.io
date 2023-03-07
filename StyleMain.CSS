@@ -1,31 +1,23 @@
 nav {
     background: white;
-    height:110px;
-    width:100vw;
-}
+    height:110px;}
 header {
     background-image: url("Rectangle\ 23.png"); 
-    height: 750px;
-    width: 100vw;
-}
+    height: 750px;}
 section {
     background: white; 
-    height: auto;
-    width: 100vw;
-}
+     height: auto;}
 footer {
     background: #3D348B;
-    height:604px;
-    width:100vw;
-}
+    height:504px;}
 
 div.about, div.contact{
-    width: 1296px;
+    width:1296px;
     margin-left:auto;
     margin-right:auto;
 }
 div.menu, div.main{
-    width: 1344px;
+    width:1344px;
     margin-left:auto;
     margin-right:auto;
 }
@@ -306,33 +298,29 @@ a.link{
 div.Feedback{
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
-    margin-left:auto;
     margin-right:auto;
     height:75px;
     background: #3D348B;
     opacity: 0.85;
 }
 div.Form{
+    margin-left: 30%;
     flex-direction: row;
     align-items: center;
     padding: 20px;
-    gap: 20px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    margin-right: auto;
-    margin-left: auto;
     appearance: none;
-    width: 800px;
     border: none;
+    width: 1300px;
     font-family: 'IBM Plex Mono', monospace;
     font-style: normal;
-    color: #FFFFFF;
+    color: #ffffff;
     font-weight: 700;
     font-size: 16px;
     line-height: 140%;
 }
+
 
         
         
